@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html style="font-size: 16px;">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="page_type" content="np-template-header-footer-from-plugin">
+    <title>About</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="E:\Program\semester 4\project\HOME.project-master\inner page\Thiller - Copy\New folder\nicepage.css" media="screen">
+    <link rel="stylesheet" href="E:\Program\semester 4\project\HOME.project-master\inner page\Thiller - Copy\New folder\About.css" media="screen">
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+    <meta name="generator" content="Nicepage 4.7.1, nicepage.com">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+    
+    
+    
+    <script type="application/ld+json">{
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "",
+    "logo": "images/1998681.png"
+}</script>
+    <meta name="theme-color" content="#478ac9">
+    <meta property="og:title" content="About">
+    <meta property="og:type" content="website">
+  </head>
+  <body data-home-page="About.html" data-home-page-title="About" class="u-body u-xl-mode">
+    <div class="container">
+      <h1>
+      products
+      <div style="float: right; cursor: pointer;">
+          <span class="glyphicon glyphicon-shopping-cart my-cart-icon">
+              <span class="badge badge-notify my-cart-badge"></span>
+          </span>
+      </div>
+    </h1>
+    <button type="addNewProduct" name="addNewProduct" id="addNewProduct">
+      Add New Product
+  </button>
+<header class="u-clearfix u-header u-header" id="sec-fd6b"><div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+    <div class="u-image u-image-circle u-preserve-proportions u-image-1" alt="" data-image-width="338" data-image-height="338"></div>
+    <a  class="u-image u-logo u-image-2" data-image-width="150" data-image-height="150">
+      <img src="1.jpeg" class="u-logo-image u-logo-image-1">
+    </a>
+    <h3 class="u-headline u-text u-text-1">
+      <a> Library Park</a>
+    </h3>
+    <center><h3>Class 12</h3></center>
+    <a href="E:\Program\semester 4\project\HOME.project-master\Main.front\Sign-IN.html" class="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1">LOGOUT</a>
+    <a href="E:\Program\semester 4\project/index.html" class="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-2" target="_blank">CART</a>
+    <div class="u-image u-image-circle u-preserve-proportions u-image-3" alt="" data-image-width="1280" data-image-height="1280"></div>
+    <form action="#" method="get" class="u-border-1 u-border-grey-30 u-search u-search-left u-white u-search-1">
+      <button class="u-search-button" type="submit">
+        <span class="u-search-icon u-spacing-10">
+          <svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 56.966 56.966"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-e63e"></use></svg>
+          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg-e63e" x="0px" y="0px" viewBox="0 0 56.966 56.966" style="enable-background:new 0 0 56.966 56.966;" xml:space="preserve" class="u-svg-content"><path d="M55.146,51.887L41.588,37.786c3.486-4.144,5.396-9.358,5.396-14.786c0-12.682-10.318-23-23-23s-23,10.318-23,23  s10.318,23,23,23c4.761,0,9.298-1.436,13.177-4.162l13.661,14.208c0.571,0.593,1.339,0.92,2.162,0.92  c0.779,0,1.518-0.297,2.079-0.837C56.255,54.982,56.293,53.08,55.146,51.887z M23.984,6c9.374,0,17,7.626,17,17s-7.626,17-17,17  s-17-7.626-17-17S14.61,6,23.984,6z"></path></svg>
+        </span>
+      </button>
+      <input class="u-search-input" type="search" name="search" value="" placeholder="Search">
+    </form>
+    <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
+      <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px; text-transform: uppercase; font-weight: 500;">
+        <a class="u-button-style u-custom-active-color u-custom-border u-custom-border-color u-custom-hover-color u-custom-left-right-menu-spacing u-custom-text-active-color u-custom-text-color u-custom-text-hover-color u-custom-top-bottom-menu-spacing u-nav-link" href="#">
+          <svg class="u-svg-link" viewBox="0 0 24 24"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-4c4b"></use></svg>
+          <svg class="u-svg-content" version="1.1" id="svg-4c4b" viewBox="0 0 16 16" x="0px" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"><g><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
+            </g></svg>
+        </a>
+      </div>
+      <div class="u-custom-menu u-nav-container" >
+        <ul class="u-nav u-spacing-2 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-active-palette-1-base u-button-style u-hover-palette-1-light-1 u-nav-link u-text-active-white u-text-grey-90 u-text-hover-white" href="file:///E:/Program/semester%204/project/HOME.project-master/Site1/Home.html" style="padding: 10px 20px;">HOME</a></li>
+        <li class="u-nav-item"><h2> Intermediate </h2></li>
+        </ul>
+      </div>
+      <div class="u-custom-menu u-nav-container-collapse">
+        <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+          <div class="u-inner-container-layout u-sidenav-overflow">
+          </li></ul>
+          </div>
+        </div>
+        <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
+      </div>
+    </nav>
+  </div>
+</header>
+  <div class="row">
+    <section class="u-clearfix u-section-1" id="sec-51c6">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <div class="u-expanded-width u-list u-list-1">
+          <div class="u-repeater u-repeater-1">
+              <div class="u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-valign-top u-container-layout-1">
+                <img alt="" class="u-border-grey-75 u-expanded-width u-image u-image-contain u-image-round u-image-1" data-image-width="401" data-image-height="408" src="E:\Program\semester 4\project\HOME.project-master\inner page\class 12\class 12th\class 12 physics part1.jpg" data-animation-name="customAnimationIn" data-animation-duration="1000" data-animation-direction="X" data-href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/class%2012/class%2012th/ncert%20class%2012%20physics%20part%201.html">
+                <a href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/class%2012/class%2012th/ncert%20class%2012%20physics%20part%201.html" class="u-border-2 u-border-black u-btn u-button-style u-hover-black u-none u-text-black u-text-hover-white u-btn-1"> class 12 physics part1 </a>
+                  <!-- <div class="col-md-3 text-center"> -->
+                    <br/><br/>
+                    Product 1 - <strong>₹ 100</strong>
+                    <br/><br/>
+                    <button class="btn btn-danger my-cart-btn" data-id="1" data-name="product 1" data-summary="summary 1" data-price="100" data-quantity="1" data-image="E:\Program\semester 4\project\HOME.project-master\inner page\class 12\class 12th\class 12 physics part1.jpg">
+                        Add to cart
+                    </button>
+                    <a href="" class="btn btn-info">Details</a>
+                  <!-- </div> -->
+              </div>
+            </div>
+            <div class="u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-valign-top u-container-layout-2">
+                <img alt="" class="u-border-grey-75 u-expanded-width u-image u-image-contain u-image-round u-image-2" data-image-width="181" data-image-height="278" src="E:\Program\semester 4\project\HOME.project-master\inner page\class 12\class 12th\class 12 mathematics part2.jpg" data-animation-name="customAnimationIn" data-animation-duration="1000" data-animation-direction="X" data-href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/class%2012/class%2012th/ncert%20class%2012%20mathematics%20part2.html">
+                <a href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/class%2012/class%2012th/ncert%20class%2012%20mathematics%20part2.html" class="u-border-2 u-border-black u-btn u-button-style u-hover-black u-none u-text-black u-text-hover-white u-btn-2"> class 12 mathematics part1</a>
+                <!-- <div class="col-md-3 text-center"> -->
+                  <br/><br/>
+                  Product 2 - <strong>₹ 200</strong>
+                  <br/><br/>
+                  <button class="btn btn-danger my-cart-btn" data-id="2" data-name="product 2" data-summary="summary 2" data-price="200" data-quantity="1" data-image="E:\Program\semester 4\project\HOME.project-master\inner page\class 12\class 12th\class 12 mathematics part2.jpg">
+                      Add to cart
+                  </button>
+                  <a href="" class="btn btn-info">Details</a>
+                <!-- </div> -->
+              </div>
+            </div>
+            <div class="u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-valign-top u-container-layout-3">
+                <img alt="" class="u-border-grey-75 u-expanded-width u-image u-image-contain u-image-round u-image-3" data-image-width="181" data-image-height="278" src="E:\Program\semester 4\project\HOME.project-master\inner page\class 12\class 12th\class 12 mathematics part2.jpg" data-animation-name="customAnimationIn" data-animation-duration="1000" data-animation-direction="X" data-href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/class%2012/class%2012th/ncert%20class%2012%20mathematics%20part2.html">
+                <a href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/class%2012/class%2012th/ncert%20class%2012%20mathematics%20part2.html" class="u-border-2 u-border-black u-btn u-button-style u-hover-black u-none u-text-black u-text-hover-white u-btn-3"> class 12 mathematics part2</a>
+                <!-- <div class="col-md-3 text-center"> -->
+                  <br/><br/>
+                  Product 3 - <strong>₹ 100</strong>
+                  <br/><br/>
+                  <button class="btn btn-danger my-cart-btn" data-id="3" data-name="product 3" data-summary="summary 2" data-price="100" data-quantity="1" data-image="E:\Program\semester 4\project\HOME.project-master\inner page\class 12\class 12th\class 12 mathematics part2.jpg">
+                      Add to cart
+                  </button>
+                  <a href="" class="btn btn-info">Details</a>
+                <!-- </div> -->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="u-clearfix u-section-1" id="sec-51c6">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <div class="u-expanded-width u-list u-list-1">
+          <div class="u-repeater u-repeater-1">
+            <div class="u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-valign-top u-container-layout-3">
+                <img alt="" class="u-border-grey-75 u-expanded-width u-image u-image-contain u-image-round u-image-3" data-image-width="181" data-image-height="278" src="E:\Program\semester 4\project\HOME.project-master\inner page\class 12\class 12th\class 12th physics part2.jpg" data-animation-name="customAnimationIn" data-animation-duration="1000" data-animation-direction="X" data-href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/class%2012/class%2012th/ncert%20class%2012%20physics%20part2.html">
+                <a href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/class%2012/class%2012th/ncert%20class%2012%20physics%20part%201.html" class="u-border-2 u-border-black u-btn u-button-style u-hover-black u-none u-text-black u-text-hover-white u-btn-1"> class 12 physics part2 </a>
+                <!-- <div class="col-md-3 text-center"> -->
+                  <br/><br/>
+                  Product 4 - <strong>₹ 755</strong>
+                  <br/><br/>
+                  <button class="btn btn-danger my-cart-btn" data-id="4" data-name="product 4" data-summary="summary 4" data-price="755" data-quantity="1" data-image="E:\Program\semester 4\project\HOME.project-master\inner page\class 12\class 12th\class 12th physics part2.jpg">
+                      Add to cart
+                  </button>
+                  <a href="" class="btn btn-info">Details</a>
+                <!-- </div> -->
+              </div>
+            </div>
+            <div class="u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-valign-top u-container-layout-3">
+                <img alt="" class="u-border-grey-75 u-expanded-width u-image u-image-contain u-image-round u-image-3" data-image-width="181" data-image-height="278" src="E:\Program\semester 4\project\HOME.project-master\inner page\class 12\class 12th\class 12th biology.jpg" data-animation-name="customAnimationIn" data-animation-duration="1000" data-animation-direction="X" data-href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/class%2012/class%2012th/ncert%20class%2012th%20biology.html">
+                <a href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/class%2012/class%2012th/ncert%20class%2012th%20biology.html" class="u-border-2 u-border-black u-btn u-button-style u-hover-black u-none u-text-black u-text-hover-white u-btn-3"> class 12th biology</a>
+                <!-- <div class="col-md-3 text-center"> -->
+                  <br/><br/>
+                  Product 5 - <strong>₹ 745</strong>
+                  <br/><br/>
+                  <button class="btn btn-danger my-cart-btn" data-id="5" data-name="product 5" data-summary="summary 5" data-price="745" data-quantity="1" data-image="E:\Program\semester 4\project\HOME.project-master\inner page\class 12\class 12th\class 12th biology.jpg">
+                      Add to cart
+                  </button>
+                  <a href="" class="btn btn-info">Details</a>
+                <!-- </div> -->
+              </div>
+            </div>
+            <div class="u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-valign-top u-container-layout-3">
+                <img alt="" class="u-border-grey-75 u-expanded-width u-image u-image-contain u-image-round u-image-3" data-image-width="181" data-image-height="278" src="E:\Program\semester 4\project\HOME.project-master\inner page\class 12\class 12th\class 12th geography.jpg" data-animation-name="customAnimationIn" data-animation-duration="1000" data-animation-direction="X" data-href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/class%2012/class%2012th/ncert%20geography%20class%2012th%20book.html">
+                <a href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/class%2012/class%2012th/ncert%20geography%20class%2012th%20book.html" class="u-border-2 u-border-black u-btn u-button-style u-hover-black u-none u-text-black u-text-hover-white u-btn-3"> class 12th geography</a>
+                <!-- <div class="col-md-3 text-center"> -->
+                  <br/><br/>
+                  Product 6 - <strong>₹ 550</strong>
+                  <br/><br/>
+                  <button class="btn btn-danger my-cart-btn" data-id="6" data-name="product 6" data-summary="summary 6" data-price="550" data-quantity="1" data-image="E:\Program\semester 4\project\HOME.project-master\inner page\class 12\class 12th\class 12th geography.jpg">
+                      Add to cart
+                  </button>
+                  <a href="" class="btn btn-info">Details</a>
+                <!-- </div> -->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="u-clearfix u-section-1" id="sec-51c6">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <div class="u-expanded-width u-list u-list-1">
+          <div class="u-repeater u-repeater-1">
+            <div class="u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-valign-top u-container-layout-3">
+                <img alt="" class="u-border-grey-75 u-expanded-width u-image u-image-contain u-image-round u-image-3" data-image-width="181" data-image-height="278" src="E:\Program\semester 4\project\HOME.project-master\inner page\class 12\class 12th\class 12th hindi book.jpg" data-animation-name="customAnimationIn" data-animation-duration="1000" data-animation-direction="X" data-href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/class%2012/class%2012th/ncert%20hindi%20class%2012.html">
+                <a href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/class%2012/class%2012th/ncert%20hindi%20class%2012.html" class="u-border-2 u-border-black u-btn u-button-style u-hover-black u-none u-text-black u-text-hover-white u-btn-3"> class 12th hindi book</a>
+                <!-- <div class="col-md-3 text-center"> -->
+                  <br/><br/>
+                  Product 7 - <strong>₹ 700</strong>
+                  <br/><br/>
+                  <button class="btn btn-danger my-cart-btn" data-id="7" data-name="product 7" data-summary="summary 7" data-price="700" data-quantity="1" data-image="E:\Program\semester 4\project\HOME.project-master\inner page\class 12\class 12th\class 12th hindi book.jpg">
+                      Add to cart
+                  </button>
+                  <a href="" class="btn btn-info">Details</a>
+                <!-- </div> -->
+              </div>
+            </div>
+            <div class="u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-valign-top u-container-layout-3">
+                <img alt="" class="u-border-grey-75 u-expanded-width u-image u-image-contain u-image-round u-image-3" data-image-width="181" data-image-height="278" src="E:\Program\semester 4\project\HOME.project-master\inner page\class 12\class 12th\class 12th history.jpg" data-animation-name="customAnimationIn" data-animation-duration="1000" data-animation-direction="X" data-href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/class%2012/class%2012th/ncert%20history%20class%2012th.html">
+                <a href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/class%2012/class%2012th/ncert%20history%20class%2012th.html" class="u-border-2 u-border-black u-btn u-button-style u-hover-black u-none u-text-black u-text-hover-white u-btn-3"> class 12th history</a>
+                <!-- <div class="col-md-3 text-center"> -->
+                  <br/><br/>
+                  Product 8 - <strong>₹ 700</strong>
+                  <br/><br/>
+                  <button class="btn btn-danger my-cart-btn" data-id="8" data-name="product 8" data-summary="summary 8" data-price="700" data-quantity="1" data-image="E:\Program\semester 4\project\HOME.project-master\inner page\class 12\class 12th\class 12th history.jpg">
+                      Add to cart
+                  </button>
+                  <a href="" class="btn btn-info">Details</a>
+                <!-- </div> -->
+              </div>
+            </div>
+            <div class="u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-valign-top u-container-layout-3">
+                <img alt="" class="u-border-grey-75 u-expanded-width u-image u-image-contain u-image-round u-image-3" data-image-width="181" data-image-height="278" src="E:\Program\semester 4\project\HOME.project-master\inner page\class 12\class 12th\classs 12th psychology.jpg" data-animation-name="customAnimationIn" data-animation-duration="1000" data-animation-direction="X" data-href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/class%2012/class%2012th/ncert%20psychology%20class%2012th%20.html">
+                <a href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/class%2012/class%2012th/ncert%20psychology%20class%2012th%20.html" class="u-border-2 u-border-black u-btn u-button-style u-hover-black u-none u-text-black u-text-hover-white u-btn-3"> classs 12th psychology</a>
+                <!-- <div class="col-md-3 text-center"> -->
+                  <br/><br/>
+                  Product 9 - <strong>₹ 750</strong>
+                  <br/><br/>
+                  <button class="btn btn-danger my-cart-btn" data-id="9" data-name="product 9" data-summary="summary 9" data-price="750" data-quantity="1" data-image="E:\Program\semester 4\project\HOME.project-master\inner page\class 12\class 12th\classs 12th psychology.jpg">
+                      Add to cart
+                  </button>
+                  <a href="" class="btn btn-info">Details</a>
+                <!-- </div> -->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+</div>
+
+</div>
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<script src="mycart.js"></script>
+<script src="cart.js"></script>
+
+  </body>
+</html>

@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html style="font-size: 16px;">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="page_type" content="np-template-header-footer-from-plugin">
+    <title>About</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="E:\Program\semester 4\project\HOME.project-master\inner page\Thiller - Copy\New folder\nicepage.css" media="screen">
+    <link rel="stylesheet" href="E:\Program\semester 4\project\HOME.project-master\inner page\Thiller - Copy\New folder\About.css" media="screen">
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+    <meta name="generator" content="Nicepage 4.7.1, nicepage.com">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+    
+    
+    
+    <script type="application/ld+json">{
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "",
+    "logo": "images/1998681.png"
+}</script>
+    <meta name="theme-color" content="#478ac9">
+    <meta property="og:title" content="About">
+    <meta property="og:type" content="website">
+  </head>
+  <body data-home-page="About.html" data-home-page-title="About" class="u-body u-xl-mode">
+    <div class="container">
+      <h1>
+      products
+      <div style="float: right; cursor: pointer;">
+          <span class="glyphicon glyphicon-shopping-cart my-cart-icon">
+              <span class="badge badge-notify my-cart-badge"></span>
+          </span>
+      </div>
+    </h1>
+    
+<header class="u-clearfix u-header u-header" id="sec-fd6b"><div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+    <div class="u-image u-image-circle u-preserve-proportions u-image-1" alt="" data-image-width="338" data-image-height="338"></div>
+    <a  class="u-image u-logo u-image-2" data-image-width="150" data-image-height="150">
+      <img src="1.jpeg" class="u-logo-image u-logo-image-1">
+    </a>
+    <h3 class="u-headline u-text u-text-1">
+      <a> Library Park</a>
+    </h3>
+    <center><h3>Engineering</h3></center>
+    <a href="E:\Program\semester 4\project\HOME.project-master\Main.front\Sign-IN.html" class="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1">LOGOUT</a>
+    </form>
+    <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
+      <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px; text-transform: uppercase; font-weight: 500;">
+        <a class="u-button-style u-custom-active-color u-custom-border u-custom-border-color u-custom-hover-color u-custom-left-right-menu-spacing u-custom-text-active-color u-custom-text-color u-custom-text-hover-color u-custom-top-bottom-menu-spacing u-nav-link" href="#">
+          <svg class="u-svg-link" viewBox="0 0 24 24"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-4c4b"></use></svg>
+          <svg class="u-svg-content" version="1.1" id="svg-4c4b" viewBox="0 0 16 16" x="0px" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"><g><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
+            </g></svg>
+        </a>
+      </div>
+      <div class="u-custom-menu u-nav-container" >
+        <ul class="u-nav u-spacing-2 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-active-palette-1-base u-button-style u-hover-palette-1-light-1 u-nav-link u-text-active-white u-text-grey-90 u-text-hover-white" href="file:///E:/Program/semester%204/project/HOME.project-master/Site1/Home.html" style="padding: 10px 20px;">HOME</a></li>
+        <li class="u-nav-item"><h2> Intermediate </h2></li>
+        </ul>
+      </div>
+      <div class="u-custom-menu u-nav-container-collapse">
+        <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+          <div class="u-inner-container-layout u-sidenav-overflow">
+          </li></ul>
+          </div>
+        </div>
+        <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
+      </div>
+    </nav>
+  </div>
+</header>
+  <div class="row">
+    <section class="u-clearfix u-section-1" id="sec-51c6">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <div class="u-expanded-width u-list u-list-1">
+          <div class="u-repeater u-repeater-1">
+              <div class="u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-valign-top u-container-layout-1">
+                <img alt="" class="u-border-grey-75 u-expanded-width u-image u-image-contain u-image-round u-image-1" data-image-width="401" data-image-height="408" src="E:\Program\semester 4\project\HOME.project-master\inner page\engineering\engineering\air condition engineering.jpg" data-animation-name="customAnimationIn" data-animation-duration="1000" data-animation-direction="X" data-href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/engineering/engineering/air%20conditioning%20engineering.html">
+                <a href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/engineering/engineering/air%20conditioning%20engineering.html" class="u-border-2 u-border-black u-btn u-button-style u-hover-black u-none u-text-black u-text-hover-white u-btn-1"> air condition engineering </a>
+                  <!-- <div class="col-md-3 text-center"> -->
+                    <br/><br/>
+                    Product 1 - <strong>₹ 100</strong>
+                    <br/><br/>
+                    <button class="btn btn-danger my-cart-btn" data-id="1" data-name="product 1" data-summary="summary 1" data-price="100" data-quantity="1" data-image="E:\Program\semester 4\project\HOME.project-master\inner page\engineering\engineering\air condition engineering.jpg">
+                        Add to cart
+                    </button>
+                    <a href="" class="btn btn-info">Details</a>
+                  <!-- </div> -->
+              </div>
+            </div>
+            <div class="u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-valign-top u-container-layout-2">
+                <img alt="" class="u-border-grey-75 u-expanded-width u-image u-image-contain u-image-round u-image-2" data-image-width="181" data-image-height="278" src="E:\Program\semester 4\project\HOME.project-master\inner page\engineering\engineering\an introduction to mechanical engineering.jpg" data-animation-name="customAnimationIn" data-animation-duration="1000" data-animation-direction="X" data-href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/engineering/engineering/an%20introduction%20to%20mechanical%20engineering.html">
+                <a href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/engineering/engineering/an%20introduction%20to%20mechanical%20engineering.html" class="u-border-2 u-border-black u-btn u-button-style u-hover-black u-none u-text-black u-text-hover-white u-btn-2"> an introduction to mechanical engineering</a>
+                <!-- <div class="col-md-3 text-center"> -->
+                  <br/><br/>
+                  Product 2 - <strong>₹ 200</strong>
+                  <br/><br/>
+                  <button class="btn btn-danger my-cart-btn" data-id="2" data-name="product 2" data-summary="summary 2" data-price="200" data-quantity="1" data-image="E:\Program\semester 4\project\HOME.project-master\inner page\engineering\engineering\an introduction to mechanical engineering.jpg">
+                      Add to cart
+                  </button>
+                  <a href="" class="btn btn-info">Details</a>
+                <!-- </div> -->
+              </div>
+            </div>
+            <div class="u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-valign-top u-container-layout-3">
+                <img alt="" class="u-border-grey-75 u-expanded-width u-image u-image-contain u-image-round u-image-3" data-image-width="181" data-image-height="278" src="E:\Program\semester 4\project\HOME.project-master\inner page\engineering\engineering\basic engineering mathematics.jpg" data-animation-name="customAnimationIn" data-animation-duration="1000" data-animation-direction="X" data-href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/engineering/engineering/basic%20engineering%20mathematics.html">
+                <a href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/engineering/engineering/basic%20engineering%20mathematics.html" class="u-border-2 u-border-black u-btn u-button-style u-hover-black u-none u-text-black u-text-hover-white u-btn-3"> basic engineering mathematics</a>
+                <!-- <div class="col-md-3 text-center"> -->
+                  <br/><br/>
+                  Product 3 - <strong>₹ 100</strong>
+                  <br/><br/>
+                  <button class="btn btn-danger my-cart-btn" data-id="3" data-name="product 3" data-summary="summary 2" data-price="100" data-quantity="1" data-image="E:\Program\semester 4\project\HOME.project-master\inner page\engineering\engineering\basic engineering mathematics.jpg">
+                      Add to cart
+                  </button>
+                  <a href="" class="btn btn-info">Details</a>
+                <!-- </div> -->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="u-clearfix u-section-1" id="sec-51c6">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <div class="u-expanded-width u-list u-list-1">
+          <div class="u-repeater u-repeater-1">
+            <div class="u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-valign-top u-container-layout-3">
+                <img alt="" class="u-border-grey-75 u-expanded-width u-image u-image-contain u-image-round u-image-3" data-image-width="181" data-image-height="278" src="E:\Program\semester 4\project\HOME.project-master\inner page\engineering\engineering\chemical engineers handbook.jpg" data-animation-name="customAnimationIn" data-animation-duration="1000" data-animation-direction="X" data-href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/engineering/engineering/chemical%20engineers%20handbook.html">
+                <a href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/engineering/engineering/chemical%20engineers%20handbook.html" class="u-border-2 u-border-black u-btn u-button-style u-hover-black u-none u-text-black u-text-hover-white u-btn-1"> chemical engineers handbook </a>
+                <!-- <div class="col-md-3 text-center"> -->
+                  <br/><br/>
+                  Product 4 - <strong>₹ 755</strong>
+                  <br/><br/>
+                  <button class="btn btn-danger my-cart-btn" data-id="4" data-name="product 4" data-summary="summary 4" data-price="755" data-quantity="1" data-image="E:\Program\semester 4\project\HOME.project-master\inner page\engineering\engineering\chemical engineers handbook.jpg">
+                      Add to cart
+                  </button>
+                  <a href="" class="btn btn-info">Details</a>
+                <!-- </div> -->
+              </div>
+            </div>
+            <div class="u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-valign-top u-container-layout-3">
+                <img alt="" class="u-border-grey-75 u-expanded-width u-image u-image-contain u-image-round u-image-3" data-image-width="181" data-image-height="278" src="E:\Program\semester 4\project\HOME.project-master\inner page\engineering\engineering\digital logic and computer design.jpg" data-animation-name="customAnimationIn" data-animation-duration="1000" data-animation-direction="X" data-href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/engineering/engineering/digital%20logic%20and%20computer%20design.html">
+                <a href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/engineering/engineering/digital%20logic%20and%20computer%20design.html" class="u-border-2 u-border-black u-btn u-button-style u-hover-black u-none u-text-black u-text-hover-white u-btn-3"> digital logic and computer design</a>
+                <!-- <div class="col-md-3 text-center"> -->
+                  <br/><br/>
+                  Product 5 - <strong>₹ 745</strong>
+                  <br/><br/>
+                  <button class="btn btn-danger my-cart-btn" data-id="5" data-name="product 5" data-summary="summary 5" data-price="745" data-quantity="1" data-image="E:\Program\semester 4\project\HOME.project-master\inner page\engineering\engineering\digital logic and computer design.jpg">
+                      Add to cart
+                  </button>
+                  <a href="" class="btn btn-info">Details</a>
+                <!-- </div> -->
+              </div>
+            </div>
+            <div class="u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-valign-top u-container-layout-3">
+                <img alt="" class="u-border-grey-75 u-expanded-width u-image u-image-contain u-image-round u-image-3" data-image-width="181" data-image-height="278" src="E:\Program\semester 4\project\HOME.project-master\inner page\engineering\engineering\control engineering.jpg" data-animation-name="customAnimationIn" data-animation-duration="1000" data-animation-direction="X" data-href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/engineering/engineering/control%20engineering.html">
+                <a href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/engineering/engineering/control%20engineering.html" class="u-border-2 u-border-black u-btn u-button-style u-hover-black u-none u-text-black u-text-hover-white u-btn-3"> control engineering</a>
+                <!-- <div class="col-md-3 text-center"> -->
+                  <br/><br/>
+                  Product 6 - <strong>₹ 550</strong>
+                  <br/><br/>
+                  <button class="btn btn-danger my-cart-btn" data-id="6" data-name="product 6" data-summary="summary 6" data-price="550" data-quantity="1" data-image="E:\Program\semester 4\project\HOME.project-master\inner page\engineering\engineering\control engineering.jpg">
+                      Add to cart
+                  </button>
+                  <a href="" class="btn btn-info">Details</a>
+                <!-- </div> -->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="u-clearfix u-section-1" id="sec-51c6">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <div class="u-expanded-width u-list u-list-1">
+          <div class="u-repeater u-repeater-1">
+            <div class="u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-valign-top u-container-layout-3">
+                <img alt="" class="u-border-grey-75 u-expanded-width u-image u-image-contain u-image-round u-image-3" data-image-width="181" data-image-height="278" src="E:\Program\semester 4\project\HOME.project-master\inner page\engineering\engineering\engineering rock mechanics.jpg" data-animation-name="customAnimationIn" data-animation-duration="1000" data-animation-direction="X" data-href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/engineering/engineering/engineering%20rock%20mechanics.html">
+                <a href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/engineering/engineering/engineering%20rock%20mechanics.html" class="u-border-2 u-border-black u-btn u-button-style u-hover-black u-none u-text-black u-text-hover-white u-btn-3"> engineering rock mechanics</a>
+                <!-- <div class="col-md-3 text-center"> -->
+                  <br/><br/>
+                  Product 7 - <strong>₹ 700</strong>
+                  <br/><br/>
+                  <button class="btn btn-danger my-cart-btn" data-id="7" data-name="product 7" data-summary="summary 7" data-price="700" data-quantity="1" data-image="E:\Program\semester 4\project\HOME.project-master\inner page\engineering\engineering\engineering rock mechanics.jpg">
+                      Add to cart
+                  </button>
+                  <a href="" class="btn btn-info">Details</a>
+                <!-- </div> -->
+              </div>
+            </div>
+            <div class="u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-valign-top u-container-layout-3">
+                <img alt="" class="u-border-grey-75 u-expanded-width u-image u-image-contain u-image-round u-image-3" data-image-width="181" data-image-height="278" src="E:\Program\semester 4\project\HOME.project-master\inner page\engineering\engineering\haudraulic structures.jpg" data-animation-name="customAnimationIn" data-animation-duration="1000" data-animation-direction="X" data-href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/engineering/engineering/hydraulic%20structures.html">
+                <a href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/engineering/engineering/hydraulic%20structures.html" class="u-border-2 u-border-black u-btn u-button-style u-hover-black u-none u-text-black u-text-hover-white u-btn-3"> haudraulic structures</a>
+                <!-- <div class="col-md-3 text-center"> -->
+                  <br/><br/>
+                  Product 8 - <strong>₹ 700</strong>
+                  <br/><br/>
+                  <button class="btn btn-danger my-cart-btn" data-id="8" data-name="product 8" data-summary="summary 8" data-price="700" data-quantity="1" data-image="E:\Program\semester 4\project\HOME.project-master\inner page\engineering\engineering\haudraulic structures.jpg">
+                      Add to cart
+                  </button>
+                  <a href="" class="btn btn-info">Details</a>
+                <!-- </div> -->
+              </div>
+            </div>
+            <div class="u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-valign-top u-container-layout-3">
+                <img alt="" class="u-border-grey-75 u-expanded-width u-image u-image-contain u-image-round u-image-3" data-image-width="181" data-image-height="278" src="E:\Program\semester 4\project\HOME.project-master\inner page\engineering\engineering\higher engineering mathematics.jpg" data-animation-name="customAnimationIn" data-animation-duration="1000" data-animation-direction="X" data-href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/engineering/engineering/higher%20engineering%20mathematics.html">
+                <a href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/engineering/engineering/higher%20engineering%20mathematics.html" class="u-border-2 u-border-black u-btn u-button-style u-hover-black u-none u-text-black u-text-hover-white u-btn-3"> higher engineering mathematics</a>
+                <!-- <div class="col-md-3 text-center"> -->
+                  <br/><br/>
+                  Product 9 - <strong>₹ 750</strong>
+                  <br/><br/>
+                  <button class="btn btn-danger my-cart-btn" data-id="9" data-name="product 9" data-summary="summary 9" data-price="750" data-quantity="1" data-image="E:\Program\semester 4\project\HOME.project-master\inner page\engineering\engineering\higher engineering mathematics.jpg">
+                      Add to cart
+                  </button>
+                  <a href="" class="btn btn-info">Details</a>
+                <!-- </div> -->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+</div>
+
+</div>
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<script src="mycart.js"></script>
+<script src="cart.js"></script>
+  </body>
+</html>

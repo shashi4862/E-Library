@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html style="font-size: 16px;">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="Library Park">
+    <meta name="description" content="">
+    <meta name="page_type" content="np-template-header-footer-from-plugin">
+    <title>Home</title>
+    <link rel="stylesheet" href="nicepage.css" media="screen">
+<link rel="stylesheet" href="Home.css" media="screen">
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+    <meta name="generator" content="Nicepage 4.7.1, nicepage.com">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+    <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700">
+    
+    
+    
+    <script type="application/ld+json">{
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "",
+    "logo": "images/default-logo.png",
+    "sameAs": []
+}</script>
+    <meta name="theme-color" content="#478ac9">
+    <meta property="og:title" content="Home">
+    <meta property="og:type" content="website">
+  </head>
+  <body class="u-body u-xl-mode"><header class="u-clearfix u-header u-header" id="sec-ff35"><div class="u-clearfix u-sheet u-sheet-1">
+        <a href="https://nicepage.com" class="u-image u-logo u-image-1">
+          <img src="images/default-logo.png" class="u-logo-image u-logo-image-1">
+        </a>
+        <img class="u-image u-image-round u-preserve-proportions u-radius-10 u-image-2" src="images/1998681.png" alt="" data-image-width="128" data-image-height="128">
+        <h1 class="u-align-left u-text u-title u-text-1">Library Park</h1>
+        <div class="u-image u-image-circle u-preserve-proportions u-image-3" alt="" data-image-width="338" data-image-height="338"></div>
+        <a href="E:\Program\semester 4\project\HOME.project-master\Main.front\Sign-IN.html" class="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1">LOGOUT</a>
+        <form action="#" method="get" class="u-border-1 u-border-grey-30 u-search u-search-left u-white u-search-1">
+          <button class="u-search-button" type="submit">
+            <span class="u-search-icon u-spacing-10">
+              <svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 56.966 56.966"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-94db"></use></svg>
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg-94db" x="0px" y="0px" viewBox="0 0 56.966 56.966" style="enable-background:new 0 0 56.966 56.966;" xml:space="preserve" class="u-svg-content"><path d="M55.146,51.887L41.588,37.786c3.486-4.144,5.396-9.358,5.396-14.786c0-12.682-10.318-23-23-23s-23,10.318-23,23  s10.318,23,23,23c4.761,0,9.298-1.436,13.177-4.162l13.661,14.208c0.571,0.593,1.339,0.92,2.162,0.92  c0.779,0,1.518-0.297,2.079-0.837C56.255,54.982,56.293,53.08,55.146,51.887z M23.984,6c9.374,0,17,7.626,17,17s-7.626,17-17,17  s-17-7.626-17-17S14.61,6,23.984,6z"></path></svg>
+            </span>
+          </button>
+          <input class="u-search-input" type="search" name="search" value="" placeholder="Search">
+        </form>
+        <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
+          <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px; text-transform: uppercase; font-weight: 500;">
+            <a class="u-button-style u-custom-active-border-color u-custom-active-color u-custom-border u-custom-border-color u-custom-borders u-custom-hover-border-color u-custom-hover-color u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-text-active-color u-custom-text-color u-custom-text-hover-color u-custom-top-bottom-menu-spacing u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="#">
+              <svg class="u-svg-link" viewBox="0 0 24 24"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#menu-hamburger"></use></svg>
+              <svg class="u-svg-content" version="1.1" id="menu-hamburger" viewBox="0 0 16 16" x="0px" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"><g><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
+</g></svg>
+            </a>
+          </div>
+          <div class="u-custom-menu u-nav-container">
+            <ul class="u-nav u-spacing-2 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-active-palette-1-base u-border-active-palette-1-base u-border-hover-palette-1-light-1 u-border-no-left u-border-no-right u-border-no-top u-button-style u-hover-palette-1-light-1 u-nav-link u-text-active-white u-text-grey-90 u-text-hover-white" href="Home.html" style="padding: 26px 28px;">Home</a>
+</li><li class="u-nav-item"><a class="u-active-palette-1-base u-border-active-palette-1-base u-border-hover-palette-1-light-1 u-border-no-left u-border-no-right u-border-no-top u-button-style u-hover-palette-1-light-1 u-nav-link u-text-active-white u-text-grey-90 u-text-hover-white" href="About.html" style="padding: 26px 28px;">About</a>
+</li><li class="u-nav-item"><a class="u-active-palette-1-base u-border-active-palette-1-base u-border-hover-palette-1-light-1 u-border-no-left u-border-no-right u-border-no-top u-button-style u-hover-palette-1-light-1 u-nav-link u-text-active-white u-text-grey-90 u-text-hover-white" href="Contact.html" style="padding: 26px 28px;">Contact</a>
+</li></ul>
+          </div>
+          <div class="u-custom-menu u-nav-container-collapse">
+            <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+              <div class="u-inner-container-layout u-sidenav-overflow">
+                <div class="u-menu-close"></div>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="file:///C:/Users/yuraj/OneDrive/Desktop/HOME.project/Site1/Home.html">Home</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="About.html">About</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Contact.html">Contact</a>
+</li></ul>
+              </div>
+            </div>
+            <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
+          </div>
+        </nav>
+        <a href="E:\Program\semester 4\project/index.html" class="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-2" target="_blank">Cart</a>
+        <div class="u-image u-image-circle u-preserve-proportions u-image-4" alt="" data-image-width="1280" data-image-height="1280"></div>
+      </div></header>
+    <section class="u-clearfix u-section-1" id="sec-5038">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <h3 class="u-text u-text-default u-text-1"> Popular Literary Genres<span style="text-decoration: underline !important;"></span>
+        </h3>
+        <div class="u-list u-list-1">
+          <div class="u-repeater u-repeater-1">
+            <div class="u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-valign-top u-container-layout-1">
+                <div class="u-image u-image-circle u-image-1" alt="" data-image-width="1664" data-image-height="1667"></div>
+                <p class="u-custom-font u-font-oswald u-text u-text-default u-text-2">
+                  <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-1" href="E:\Program\semester 4\project\HOME.project-master\inner page\Romance\index.html">ROMANCE</a>
+                  <!-- <embed type="application/pdf" src="harry.pdf"></embed> -->
+                </p>
+              </div>
+            </div>
+            <div class="u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-valign-top u-container-layout-2">
+                <div class="u-image u-image-circle u-image-2" alt="" data-image-width="338" data-image-height="338"></div>
+                <p class="u-custom-font u-font-oswald u-text u-text-default u-text-3">
+                  <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-2" href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/Mystery/index.html">MYSTERY</a>
+                </p>
+              </div>
+            </div>
+            <div class="u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-valign-top u-container-layout-3">
+                <div class="u-image u-image-circle u-image-3" alt="" data-image-width="626" data-image-height="278"></div>
+                <p class="u-custom-font u-font-oswald u-text u-text-default u-text-4">
+                  <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-3" href="E:\Program\semester 4\project\HOME.project-master\inner page\Fantasy\index.html">FANTASY and SCIENCE FICTION</a>
+                </p>
+              </div>
+            </div>
+            <div class="u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-valign-top u-container-layout-4">
+                <div class="u-image u-image-circle u-image-4" alt="" data-image-width="626" data-image-height="250"></div>
+                <p class="u-custom-font u-font-oswald u-text u-text-default u-text-5">
+                  <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-4" href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/Thiller/index.html">THRILLER</a>
+                </p>
+              </div>
+            </div>
+            <div class="u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-valign-top u-container-layout-5">
+                <div class="u-image u-image-circle u-image-5" alt="" data-image-width="626" data-image-height="611"></div>
+                <p class="u-custom-font u-font-oswald u-text u-text-default u-text-6">
+                  <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-5" href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/children%20fiction/index.html">CHILDRENS FICTION</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <h3 class="u-text u-text-default u-text-7"><b>Textbooks</b>&nbsp;
+        </h3>
+        <div class="u-list u-list-2">
+          <div class="u-repeater u-repeater-2">
+            <div class="u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-container-layout-6">
+                <div class="u-image u-image-circle u-image-6" alt="" data-image-width="600" data-image-height="800"></div>
+                <p class="u-text u-text-default u-text-8">
+                  <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-6" href="https://drive.google.com/drive/folders/1q-pHixDPzsfL962XxJi54CaT8or07fEV?usp=sharing"> &nbsp;Matriculation&nbsp;</a>
+                </p>
+              </div>
+            </div>
+            <div class="u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-container-layout-7">
+                <div class="u-image u-image-circle u-image-7" alt="" data-image-width="1388" data-image-height="1498"></div>
+                <p class="u-text u-text-default u-text-9">
+                  <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-7" href="E:\Program\semester 4\project\HOME.project-master\inner page\class 12\New folder\index.html"><b>Intermediate</b>
+                  </a>
+                </p>
+              </div>
+            </div>
+            <div class="u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-container-layout-8">
+                <div class="u-image u-image-circle u-image-8" alt="" data-image-width="626" data-image-height="417"></div>
+                <p class="u-text u-text-default u-text-10">
+                  <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-8" href="file:///E:/Program/semester%204/project/HOME.project-master/inner%20page/engineering/New%20folder/index.html"> Engineering</a>
+                </p>
+              </div>
+            </div>
+            <div class="u-container-style u-list-item u-repeater-item">
+              <div class="u-container-layout u-similar-container u-container-layout-9">
+                <div class="u-image u-image-circle u-image-9" alt="" data-image-width="626" data-image-height="417"></div>
+                <p class="u-text u-text-default u-text-11">
+                  <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-9" href="https://drive.google.com/drive/folders/1q-pHixDPzsfL962XxJi54CaT8or07fEV?usp=sharing"> many more</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="u-clearfix u-section-2" id="sec-e0d4">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <h4 class="u-text u-text-1"> Best Sellers</h4>
+        <h6 class="u-text u-text-default u-text-2"> Take a good book to bed with you—books do not snore. </h6>
+        <div class="u-expanded-width u-gallery u-layout-horizontal u-lightbox u-no-transition u-show-text-on-hover u-gallery-1">
+          <div class="u-gallery-inner"><div class="u-effect-fade u-gallery-item u-radius-35 u-shape-round u-gallery-item-1" data-href="E:\Program\semester 4\project\HOME.project-master\Site1\the_marriage.html"><div class="u-back-slide" data-image-width="297" data-image-height="445"><img class="u-back-image" src="images/51hP0eqV2jL._SX342_SY445_QL70_ML2_.jpg">
+</div><div class="u-over-slide u-shading u-over-slide-1"><h3 class="u-gallery-heading"></h3><p class="u-gallery-text"></p>
+</div>
+</div><div class="u-effect-fade u-gallery-item u-radius-35 u-shape-round u-gallery-item-2" data-href="E:\Program\semester 4\project\HOME.project-master\Site1\song_for_the_.html"><div class="u-back-slide" data-image-width="645" data-image-height="1000"><img class="u-back-image" src="images/61J9PNo-BrL.jpg">
+</div><div class="u-over-slide u-shading u-over-slide-2"><h3 class="u-gallery-heading"></h3><p class="u-gallery-text"></p>
+</div>
+</div><div class="u-effect-fade u-gallery-item u-radius-35 u-shape-round u-gallery-item-3" data-href="file:///E:/Program/semester%204/project/HOME.project-master/Site1/harry.html"><div class="u-back-slide" data-image-width="1662" data-image-height="2560"><img class="u-back-image" src="images/71duexnERsL.jpg">
+</div><div class="u-over-slide u-shading u-over-slide-3"><h3 class="u-gallery-heading"></h3><p class="u-gallery-text"></p>
+</div>
+</div><div class="u-effect-fade u-gallery-item u-radius-35 u-shape-round u-gallery-item-4" data-href="file:///E:/Program/semester%204/project/HOME.project-master/Site1/where%20the%20crad.html"><div class="u-back-slide" data-image-width="636" data-image-height="1000"><img class="u-back-image" src="images/71FXfPs-iyL.jpg">
+</div><div class="u-over-slide u-shading u-over-slide-4"><h3 class="u-gallery-heading"></h3><p class="u-gallery-text"></p>
+</div>
+</div><div class="u-effect-fade u-gallery-item u-radius-35 u-shape-round u-gallery-item-5" data-href="file:///E:/Program/semester%204/project/HOME.project-master/Site1/last%20night.html"><div class="u-back-slide" data-image-width="1500" data-image-height="2284"><img class="u-back-image" src="images/71QaVxBOT7L.jpg">
+</div><div class="u-over-slide u-shading u-over-slide-5"><h3 class="u-gallery-heading"></h3><p class="u-gallery-text"></p>
+</div>
+</div><div class="u-effect-fade u-gallery-item u-radius-35 u-shape-round u-gallery-item-6" data-href="https://drive.google.com/drive/folders/1q-pHixDPzsfL962XxJi54CaT8or07fEV?usp=sharing"><div class="u-back-slide" data-image-width="1681" data-image-height="2560"><img class="u-back-image" src="images/A1HWPfiKcDL.jpg">
+</div><div class="u-over-slide u-shading u-over-slide-6"><h3 class="u-gallery-heading"></h3><p class="u-gallery-text"></p>
+</div>
+</div><div class="u-effect-fade u-gallery-item u-radius-35 u-shape-round u-gallery-item-7" data-image-width="2475" data-image-height="2475" data-href="https://drive.google.com/drive/folders/1q-pHixDPzsfL962XxJi54CaT8or07fEV?usp=sharing"><div class="u-back-slide"><img class="u-back-image" src="treding in the zone.png">
+</div><div class="u-over-slide u-shading u-over-slide-7"><h3 class="u-gallery-heading"></h3><p class="u-gallery-text"></p>
+</div>
+</div></div>
+          <a class="u-absolute-vcenter u-gallery-nav u-gallery-nav-prev u-grey-70 u-icon-circle u-opacity u-opacity-70 u-spacing-10 u-text-white u-gallery-nav-1" href="#" role="button">
+            <span aria-hidden="true">
+              <svg viewBox="0 0 451.847 451.847"><path d="M97.141,225.92c0-8.095,3.091-16.192,9.259-22.366L300.689,9.27c12.359-12.359,32.397-12.359,44.751,0
+c12.354,12.354,12.354,32.388,0,44.748L173.525,225.92l171.903,171.909c12.354,12.354,12.354,32.391,0,44.744
+c-12.354,12.365-32.386,12.365-44.745,0l-194.29-194.281C100.226,242.115,97.141,234.018,97.141,225.92z"></path></svg>
+            </span>
+            <span class="sr-only">
+              <svg viewBox="0 0 451.847 451.847"><path d="M97.141,225.92c0-8.095,3.091-16.192,9.259-22.366L300.689,9.27c12.359-12.359,32.397-12.359,44.751,0
+c12.354,12.354,12.354,32.388,0,44.748L173.525,225.92l171.903,171.909c12.354,12.354,12.354,32.391,0,44.744
+c-12.354,12.365-32.386,12.365-44.745,0l-194.29-194.281C100.226,242.115,97.141,234.018,97.141,225.92z"></path></svg>
+            </span>
+          </a>
+          <a class="u-absolute-vcenter u-gallery-nav u-gallery-nav-next u-grey-70 u-icon-circle u-opacity u-opacity-70 u-spacing-10 u-text-white u-gallery-nav-2" href="#" role="button">
+            <span aria-hidden="true">
+              <svg viewBox="0 0 451.846 451.847"><path d="M345.441,248.292L151.154,442.573c-12.359,12.365-32.397,12.365-44.75,0c-12.354-12.354-12.354-32.391,0-44.744
+L278.318,225.92L106.409,54.017c-12.354-12.359-12.354-32.394,0-44.748c12.354-12.359,32.391-12.359,44.75,0l194.287,194.284
+c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,248.292z"></path></svg>
+            </span>
+            <span class="sr-only">
+              <svg viewBox="0 0 451.846 451.847"><path d="M345.441,248.292L151.154,442.573c-12.359,12.365-32.397,12.365-44.75,0c-12.354-12.354-12.354-32.391,0-44.744
+L278.318,225.92L106.409,54.017c-12.354-12.359-12.354-32.394,0-44.748c12.354-12.359,32.391-12.359,44.75,0l194.287,194.284
+c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,248.292z"></path></svg>
+            </span>
+          </a>
+        </div>
+      </div>
+    </section>
+    
+    
+    
+   
+  </body>
+</html>
